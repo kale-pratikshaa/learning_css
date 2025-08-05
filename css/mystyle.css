@@ -1,0 +1,50 @@
+h3{
+    font-size: 30px;
+    color: blue;
+    background-color: beige;
+}
+p{
+    color: rgb(47, 172, 255);
+}
+.t_transform_uppercase{
+    text-transform: uppercase;
+}
+.t_transform_lowercase{
+    text-transform:lowercase;
+}
+.t_transform_capitalize{
+    text-transform: capitalize;
+}
+.pratu{
+    text-align: center;
+}
+.t_right{
+    text-align: right;
+}
+.t_decor_underline{
+    text-decoration: underline;
+}
+.t_decor_overline{
+    text-decoration: overline;
+
+}
+.t_decor_linetrough{
+    text-decoration: line-through;
+}
+.t_decor_underline{
+    text-decoration: line-through underline overline;
+   
+   
+}
+ .t_indent{
+    text-indent: 50px;
+ }
+.l_spacing{
+    letter-spacing: 20px;
+}
+.w_spacing{
+    word-spacing: 30px;
+}
+.l_height{
+    line-height: 38px;
+}
