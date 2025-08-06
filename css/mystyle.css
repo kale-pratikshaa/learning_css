@@ -3,9 +3,9 @@ h3{
     color: blue;
     background-color: beige;
 }
-p{
+/* p{
     color: rgb(47, 172, 255);
-}
+} */
 .t_transform_uppercase{
     text-transform: uppercase;
 }
@@ -47,4 +47,51 @@ p{
 }
 .l_height{
     line-height: 38px;
+}
+.t_shadow{
+    text-align: center;
+    font-size: 80px;
+    color:blueviolet;
+    text-shadow: 10px 4px 8px red;
+}
+.t_shadow2{
+    text-align: center;
+    font-size: 80px;
+    color: blue;
+    text-shadow: 15px 5px 9px greenyellow;
+}
+.b_shadow{
+    box-shadow: 15px 15pc 13px red;
+    width: 100px;
+}
+/* .t_color{ 
+    color: blue;
+} */
+.t_size{
+    font-size: 60px;
+}
+.t_bg{
+    background-color: aquamarine;
+}
+#t_size{
+    font-size: 400px;
+}
+#t_color{
+    color:blueviolet;
+    font-size: 40px;
+}
+.f_family1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.f_family2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.f_family3{
+    font-family: fantasy;
+}
+.b_prop1{
+    border: 3px dashed grey;
+}
+.b_prop{
+    border: 4px double pink;
 }
