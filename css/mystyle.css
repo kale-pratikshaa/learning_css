@@ -171,7 +171,7 @@ margin-top: 20px;
 }
 .conical{
     height: 400px;
-    width: 300px;
+    width: 300pxv;
     background: conic-gradient(from 90deg,red,green,black,blue);
 }
 .linear2{
