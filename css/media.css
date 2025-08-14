@@ -1,0 +1,46 @@
+/* media queries
+mobile first we start the smallest viewprt with */
+@media (min-width:320px)and (max-width:767px)
+{
+    body{
+        font-size: 20px;
+        background: pink;
+        box-shadow: 100px;
+    }
+p{
+    color: brown;
+}
+h1,h3{
+    color: white;
+}
+.img1{
+    width: 50px;
+    height: 250px;
+   
+}
+}
+/* frm 768px and up */
+@media(min-width:768px){
+    body{
+        background-color: chartreuse;
+    }
+}
+@media(min-width:1224px){
+    body{
+        background-color: blueviolet;
+    }
+}
+@media(min-width:1824px)
+{
+    body{
+        background-color: aqua;
+        box-shadow: 70px;
+    }
+}
+/* from 850px and up,until 950px */
+@media (min-width:850px)and (max-width:950px)
+{
+    body{
+        background-color: purple;
+    }
+}
