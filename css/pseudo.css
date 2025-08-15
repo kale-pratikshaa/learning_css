@@ -1,0 +1,30 @@
+h1{
+    color:red;
+}
+h1:hover{
+    text-shadow: 500px;
+    /* background-color: aqua; */
+    color:green;
+}
+input:focus{
+    background-color: yellow;
+    color: blue;
+
+}
+a:visited{
+    color: green;
+}
+p::first-letter{
+    color: greenyellow;
+    font-size: 20px;
+}
+p::first-line{
+    color: red;
+}
+::selection{
+    color: violet;
+    background-color: aquamarine;
+}
+body{
+    background-image: url("images/gaandiji.png");
+}

@@ -277,24 +277,8 @@ animation-delay: 4s;
     margin: 70px;
     background-color: antiquewhite;
 }
-.items{
-    background-color: blueviolet;
-    width: 200px;
-    height:150px;
-   color:black;
-    text-align: center;
-    font-size: 50px;
-    margin: 10px;
-}
-.flex-container{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    list-style: none;
-    
-}
+
+
 ul{
     width: 200px;
     padding: 10px;
